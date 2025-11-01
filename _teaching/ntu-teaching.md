@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistantr"
+title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ntu-teaching
