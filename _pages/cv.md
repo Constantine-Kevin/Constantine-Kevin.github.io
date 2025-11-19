@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, GitHub University, 2028 (expected)
+* Ph.D in Computer Science, Nanyang Technological University, 2028 (expected)
 * B.Sc. in Advanced Computing, The Australian National University, 2021-2023  
 * S.Kom. in Computer Science (eq to a bachelor), University of Indonesia, 2019-2023. Best Graduate of September 2023 Graduation
 
